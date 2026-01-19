@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9234dfc8-3e18-4c3b-9ef0-c6367b236044" name="Changes" comment="" />
+    <list default="true" id="9234dfc8-3e18-4c3b-9ef0-c6367b236044" name="Changes" comment="warehouse project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mrinmay11/warehouse.git",
+    "accountId": "b33a5bc8-7253-42cb-8c64-f105a4bcbefa"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -60,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1768781745390</updated>
     </task>
+    <task id="LOCAL-00001" summary="warehouse project">
+      <option name="closed" value="true" />
+      <created>1768782210687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768782210689</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="warehouse project" />
+    <option name="LAST_COMMIT_MESSAGE" value="warehouse project" />
   </component>
 </project>
