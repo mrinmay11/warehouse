@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.fulfilment.application.monolith.products.ProductEndpointTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 14.34 s <<< FAILURE! -- in com.fulfilment.application.monolith.products.ProductEndpointTest
-com.fulfilment.application.monolith.products.ProductEndpointTest.testCrudProduct -- Time elapsed: 0.132 s <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 51.56 s <<< FAILURE! -- in com.fulfilment.application.monolith.products.ProductEndpointTest
+com.fulfilment.application.monolith.products.ProductEndpointTest.testCrudProduct -- Time elapsed: 0.119 s <<< ERROR!
 java.lang.RuntimeException: 
 java.lang.RuntimeException: io.quarkus.builder.BuildException: Build failure: Build failed due to errors
 	[error]: Build step io.quarkus.hibernate.orm.deployment.HibernateOrmProcessor#pregenProxies threw an exception: java.lang.IllegalArgumentException: Java 23 (67) is not supported by the current version of Byte Buddy which officially supports Java 22 (66) - update Byte Buddy or set net.bytebuddy.experimental as a VM property
